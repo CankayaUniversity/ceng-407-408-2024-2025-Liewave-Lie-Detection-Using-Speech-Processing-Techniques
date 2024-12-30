@@ -12,9 +12,9 @@ LieWave is a mobile application designed to detect lies by analyzing speech patt
 | Name                 | Student Number      |
 |----------------------|---------------------|
 | [Onur Güven](https://github.com/OnurGuveen)         | 201611028 |
-| [Eray Yıkar](https://github.com/Erykr1)   | studentno |
-| [Berkay Uge](https://github.com/berkayugeofficial)   | 202011055 |
-| [Çağrı Başaran](https://github.com/cagribasaran)   | studentno |
+| [Eray Yıkar](https://github.com/Erykr1)   | 202011074 |
+| [Berkay Üğe](https://github.com/berkayugeofficial)   | 202011055 |
+| [Çağrı Başaran](https://github.com/cagribasaran)   | 202011015 |
 | [Melih Taşkın](https://github.com/melihoverflow5) | 202111070 |
 ---
 
