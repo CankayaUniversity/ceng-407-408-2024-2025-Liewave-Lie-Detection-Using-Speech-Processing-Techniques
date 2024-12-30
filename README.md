@@ -3,7 +3,7 @@
 # LieWave: Lie Detection Using Speech Processing Techniques
 
 ## Project Description
-LieWave is a mobile application designed to detect lies by analyzing speech patterns using advanced machine learning models. By processing audio inputs, it identifies subtle cues in tone, pace, and linguistic features to provide a real-time lie probability score. This tool can assist in improving communication, enhancing decision-making, and offering valuable insights in various scenarios without relying on visual or facial data.
+**LieWave** is a mobile app that uses advanced machine learning models to detect lies by analyzing speech patterns. It processes audio inputs to identify subtle cues in tone, pace, and linguistic features, providing real-time insights with a lie probability score.
 
 ---
 
