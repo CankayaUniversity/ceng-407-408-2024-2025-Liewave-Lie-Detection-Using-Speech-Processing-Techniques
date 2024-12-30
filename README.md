@@ -19,4 +19,4 @@ LieWave is a mobile application designed to detect lies by analyzing speech patt
 ---
 
 ## Advisor
-[Hayri Sever]
+#Hayri Sever
