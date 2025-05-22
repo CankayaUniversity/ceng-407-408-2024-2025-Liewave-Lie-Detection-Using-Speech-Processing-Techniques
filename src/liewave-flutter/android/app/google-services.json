@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "415092702063",
+    "project_id": "liewave-2025",
+    "storage_bucket": "liewave-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415092702063:android:7f96766fe6150ed3c8469a",
+        "android_client_info": {
+          "package_name": "com.example.liewave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415092702063-f02t1vpmf4omo6q5qdgob3idcobmi1v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBNHZZJ4fpq3nGv1sUUSwgcATz8aEZDFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415092702063-f02t1vpmf4omo6q5qdgob3idcobmi1v7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415092702063-sttv7s12sscfnb4m6ef13d392gdtp510.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liewave"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

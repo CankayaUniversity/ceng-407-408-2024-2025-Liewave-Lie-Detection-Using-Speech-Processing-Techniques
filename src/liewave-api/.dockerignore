@@ -1,0 +1,20 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore old model folders
+model-V1.0.0/
+model-V1.1.0/
+
+# Ignore Dockerfile and .dockerignore
+Dockerfile
+.dockerignore
+
+
+# Ignore logs and Git files
+.git/
+*.log

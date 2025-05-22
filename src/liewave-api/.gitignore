@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Flask specific
+instance/
+.env
+
+# Virtual environments
+venv/
+.env/
+env/
+*.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Firebase Admin SDK json key
+liewave-2025-firebase-adminsdk-fbsvc-5884da46df.json
+
+# Model Files
+model/
+model-V1.0.0/
+model-V1.0.1/
+model-V1.1.0/
